@@ -1,8 +1,8 @@
 ﻿using System;
-using System.Linq;
 using System.Collections;
 using System.Collections.Generic;
 using System.Threading;
+using Microsoft.Xna.Framework;
 using TShockAPI;
 using Terraria;
 

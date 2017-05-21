@@ -9,7 +9,7 @@ using System.Reflection;
 
 namespace CBoss
 {
-    [ApiVersion(1, 23)]
+    [ApiVersion(2, 1)]
     public class CBoss : TerrariaPlugin
     {
         #region TerrariaPlugin
